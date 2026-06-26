@@ -1,7 +1,5 @@
 # Organisation Migration Notice
 
-## Migration complete: `pymc-dev` to `openhop-dev`
-
 The project repositories have moved from **`pymc-dev`** to **`openhop-dev`**.
 
 ## What changed
